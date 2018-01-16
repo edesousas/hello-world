@@ -2,4 +2,5 @@
 Hello World Example
 
 ## About Me
-My name is E
+My name is Eric.
+Hello
